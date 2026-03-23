@@ -1,4 +1,4 @@
-# applied-cryptography-network-security
+# Applied Cryptography & Network Security Portfolio
 Este repositorio contiene implementaciones avanzadas de protocolos de comunicación segura y gestión de identidades, desarrolladas en Python. El enfoque principal es la aplicación práctica de criptografía híbrida y la seguridad en capas de transporte (TLS).
 
 ## Proyectos Destacados
